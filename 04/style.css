@@ -1,0 +1,12 @@
+.menu{
+    background-color: aqua;
+    display: flex;
+    margin: 20px;
+}
+.menu__item{
+    padding: 20px 20px;
+    border: 5px solid transparent; 
+}
+.menu__item:hover{
+    border-top: 5px solid red;
+}

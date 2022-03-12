@@ -5,7 +5,6 @@
 .parent--inline-block .child{
     display: inline-block;
     outline: 1px solid red;
-
 }
 .parent--float::after{
     content: ;
